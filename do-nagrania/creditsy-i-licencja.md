@@ -1,6 +1,10 @@
+>>>początek<<<
+
 "Biotektor" - Tomasz Bot, czyta autor
+
 Produkcja, nagranie, edycja i mastering High Definition: Bartłomiej Kuźniak, Studio333.net
 
+>>>na końcu nagrania<<<
 
 “Biotektor” dostępny jest także w formie tekstowej i dźwiękowej na stronach:
 https://studio333.net/biotektor 
