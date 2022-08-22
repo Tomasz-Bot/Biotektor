@@ -1,17 +1,22 @@
 >>>początek<<<
 
 "Biotektor" - Tomasz Bot, czyta autor
-
+Muzyka: B333
 Produkcja, nagranie, edycja i mastering High Definition: Bartłomiej Kuźniak, Studio333.net
 
 >>>na końcu nagrania<<<
 
-“Biotektor” dostępny jest także w formie tekstowej i dźwiękowej na stronach:
+“Biotektor” dostępny jest także w formie tekstowej i dźwiękowej na stronie "Archiwum Studio 333" pod adresem 
 https://studio333.net/biotektor 
+a także na 
 https://archive.org/details/@studio333_archives
-i https://Studio333.bandcamp.com
+i 
+https://Studio333.bandcamp.com
+
+Zapraszamy do zapoznania się z otwartym dla każdego "Archiwum Studio 333" gdzie oprócz wielu propozcji muzycznych znajdą się kolejne części "Biotektora" - https://studio333.net/archive
 
 
+Licencja:
 To nagranie dźwiękowe jest chronione licencją Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License.
 https://creativecommons.org/licenses/by-nc-nd/3.0/pl/
 
