@@ -1,8 +1,11 @@
 >>>początek<<<
 
 "Biotektor" - Tomasz Bot, czyta autor
+
 Muzyka: B333
+
 Produkcja, nagranie, edycja i mastering High Definition: Bartłomiej Kuźniak, Studio333.net
+
 
 >>>na końcu nagrania<<<
 
