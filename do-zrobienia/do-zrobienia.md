@@ -6,7 +6,7 @@ AUDIO:
 3. Montaż pre-mastera, ostateczna korekta barwy i dynamiki.
 4. Dokończenie produkcji utworu otwierającego, zgranie, mix i mastering. Nazwę go "Biotektor":)
 5. Zgranie "scratchingu" głosem z RX9 na zewnętrzny system (24bity, 192kHz), wybór najlepszych wersji, edycja i stworzenie bazy sampli z tego.
-6. Przygotowanie ponad tysiąca słów w formie sampli do umieszczenia ich w Audio Stellar [-](https://audiostellar.xyz/) do grania custom'ową galaktyką sampli w Audio Stellar oraz do projektowania struktury samokomponującej stamtąd.
+6. Przygotowanie ponad tysiąca słów w formie sampli do umieszczenia ich w [Audio Stellar](https://audiostellar.xyz/) do grania custom'ową galaktyką sampli w Audio Stellar oraz do projektowania struktury samokomponującej stamtąd.
 7. Zgranie wyników z Audio Stellar, wybór najciekawszych wersji, opracowanie ich brzmienia i dynamiki.
 8. W samplerze Bitwig Studio "scratching" głosu sterowany paskiem z QuNeo, automatyka do pozniejszej edycji, zgrania, wybory, obróbka i eksport odrębnej grupy sampli z tego działania.
 9. Zgranie zrobionej do tej pory instalacji z bełkotem pseudo-randomowym lub osadzenie jej w sesji dla lepszego dopasowania. 
