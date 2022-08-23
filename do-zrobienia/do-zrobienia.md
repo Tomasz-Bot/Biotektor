@@ -22,12 +22,14 @@ FOTO:
 VIDEO:
 1. Zrobić clip do utworu B333 "Biotektor", najchętniej w formie animacji autorstwa ZłoWieka.
 
+>>>
 
 @Tomasz-Bot
 1. Uzyskać numer ISBN do naszych publikacji.
 2. Wyłonić kolekcję zdjęć do migania w teaserach.
 3. Zorganizować patronaty medialne.
 
+>>>
 
 @Tomasz-Bot + @Bart-Kuzniak
 1. Przygotować Press-Pack.
