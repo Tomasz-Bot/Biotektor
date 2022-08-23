@@ -16,7 +16,7 @@ AUDIO:
 
 FOTO:
 1. Wyszukać i zebrać wybrane zdjęcie autora zrobione Fujifilm X-T3.
-2. Wyłonić zdjęcie do opisu autora w książce, na stronę https://studio333.net/biotektor/ , do press-packa i do clipu z migającymi po klatce zdjęciami.
+2. Wyłonić zdjęcie do opisu autora w książce, [na stronę](https://studio333.net/biotektor/), do press-packa i do clipu z migającymi po klatce zdjęciami.
 3. Zebrać dokumentację fotograficzną z nagrań, wyłonić najlepsze, obrobić, osadzić na stronie z pkt. 2.
 
 VIDEO:
