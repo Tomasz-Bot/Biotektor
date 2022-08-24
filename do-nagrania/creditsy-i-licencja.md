@@ -9,8 +9,6 @@ Produkcja, nagranie, edycja i mastering High Definition: Bartłomiej Kuźniak, S
 
 >>>na końcu nagrania<<<
 
-Licencja
-
 “Biotektor” dostępny jest także w formie tekstowej i dźwiękowej na stronie "Archiwum Studio 333" pod adresem 
 https://studio333.net/biotektor 
 a także na 
@@ -22,6 +20,7 @@ Zapraszamy do zapoznania się z otwartym dla każdego "Archiwum Studio 333" gdzi
 
 
 Licencja:
+
 To nagranie dźwiękowe jest chronione licencją Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License.
 https://creativecommons.org/licenses/by-nc-nd/3.0/pl/
 
