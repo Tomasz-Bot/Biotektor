@@ -1,7 +1,7 @@
 @Bart-Kuzniak
 
 AUDIO:
-1. Dogranie creditsów i licencji.
+*** 1. Dogranie creditsów i licencji.
 2. Noise Reduction + odmlaszczenie ostatnich łatek dźwiękowych i creditsów.
 3. Montaż pre-mastera, ostateczna korekta barwy i dynamiki.
 4. Dokończenie produkcji utworu otwierającego, zgranie, mix i mastering. Nazwę go "Biotektor":)
