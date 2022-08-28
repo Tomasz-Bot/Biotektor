@@ -1,4 +1,4 @@
-hTutaj wklejajmy linki do wzorców dla A.I. podzielonych na kategorie: 
+Tutaj wklejajmy linki do wzorców dla A.I. podzielonych na kategorie: 
 1. Tomasz Bot - zdjęcia autorskie
 2. Ikony kinowe - kadry od frontu, ramiona i twarze (Terminatory, Robo-Copy etc)
 3. Ikony komiksowe - kadr jw.
