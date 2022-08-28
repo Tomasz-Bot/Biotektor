@@ -1,4 +1,4 @@
-Wymienione miejsca do weryfikacji:
+Miejsca do weryfikacji:
 
 4:52 w dowolny sposob __i dowolnymi srodkami "i" podciete
 
