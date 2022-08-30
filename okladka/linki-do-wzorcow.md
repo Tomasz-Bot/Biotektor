@@ -1,6 +1,7 @@
 Ponisza koncepcja powstała przed przyjęciem przez [ZłoWieka](https://www.instagram.com/zlowiek21/) propozycji zaprojektowania okładki "Biotektora" [Tomasza Bota](https://github.com/Tomasz-Bot/Biotektor). Praca autorska [ZłoWieka](https://www.instagram.com/zlowiek21/) będzie zrealizowana jako pierwsza. Następnie zbiór propozycji okładki "Biotektora" utworzy bazę danych przydatną potem w Machine Learningu i szkoleniu sztucznej inteligencji, do czego wrócimy w kolejnych krokach realizujc poniżej opisany koncept rozszerzony o nowe kategorie.
 
 Tutaj wklejajmy linki do wzorców dla A.I. podzielonych na kategorie:
+
 0. [ZłoWiek - propozycje okładki do "Biotektora"](https://drive.google.com/drive/folders/1ZWgq98SSNqaZWDF1f0_NveuUHMInAruV?usp=sharing)
 1. [Tomasz Bot - zdjęcia autorskie](https://drive.google.com/drive/folders/1wqwiHmvWsPlxJF6Jzh4GzjY4KJqVe5wI?usp=sharing)
 2. [Ikony kinowe - kadry od frontu, ramiona i twarze (Terminatory, Robo-Copy etc)](https://drive.google.com/drive/folders/1L0sYIG3TH6QppQetwrOz53l8RlUR68io?usp=sharing)
