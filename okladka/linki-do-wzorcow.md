@@ -2,7 +2,7 @@ Ponisza koncepcja powstała przed przyjęciem przez [ZłoWieka](https://www.inst
 
 Tutaj wklejajmy linki do wzorców dla A.I. podzielonych na kategorie: 
 1. [Tomasz Bot - zdjęcia autorskie](https://drive.google.com/drive/folders/1wqwiHmvWsPlxJF6Jzh4GzjY4KJqVe5wI?usp=sharing)
-2. [Ikony kinowe - kadry od frontu, ramiona i twarze (Terminatory, Robo-Copy etc)](https://drive.google.com/drive/folders/1CtDKEjuzRZDDyHPVdRpV3qosr-OGYe4N?usp=sharing)
+2. [Ikony kinowe - kadry od frontu, ramiona i twarze (Terminatory, Robo-Copy etc)](https://drive.google.com/drive/folders/1L0sYIG3TH6QppQetwrOz53l8RlUR68io?usp=sharing)
 3. [Ikony komiksowe - kadr jw.](https://drive.google.com/drive/folders/1mMQYGy8izSHBgxCRuYz_NF-QC1UOGMJt?usp=sharing)
 4. [Wspalniałe postery SF.](https://drive.google.com/drive/folders/1afhSu6P0NEVEVV_qlsGqh66kFysER1os?usp=sharing)
 5. [Implanty mechaniczne i biomechaniczne.](https://drive.google.com/drive/folders/1QPafq-fr3k5JM4jUCjos3cQBiJEzXRbM?usp=sharing)
