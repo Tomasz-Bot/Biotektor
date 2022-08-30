@@ -1,6 +1,6 @@
 Tutaj wklejajmy linki do wzorców dla A.I. podzielonych na kategorie: 
 1. Tomasz Bot - zdjęcia autorskie
-2. Ikony kinowe - kadry od frontu, ramiona i twarze (Terminatory, Robo-Copy etc)
+2. [Ikony kinowe - kadry od frontu, ramiona i twarze (Terminatory, Robo-Copy etc)](https://drive.google.com/drive/folders/1CtDKEjuzRZDDyHPVdRpV3qosr-OGYe4N?usp=sharing)
 3. Ikony komiksowe - kadr jw.
 4. Wspalniałe postery SF.
 5. Implanty mechaniczne i biomechaniczne.
