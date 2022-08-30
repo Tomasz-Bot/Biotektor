@@ -1,4 +1,4 @@
-Ponisza koncepcja powstała przed przyjęciem przez [ZłoWieka](https://www.instagram.com/zlowiek21/) propozycji zaprojektowania okładki "Biotektora" [Tomasza Bota](https://github.com/Tomasz-Bot/Biotektor). Praca autorska [ZłoWieka](https://www.instagram.com/zlowiek21/) będzie zrealizowana jako pierwsza. Następnie zbiór propozycji okładki "Biotektora" utworzy bazę danych przydatną potem w Machine Learningu i szkoleniu sztucznej inteligencji, do czego wrócimy w kolejnych krokach realizujc poniżej opisany koncept rozszerzony o nowe kategorie.
+Ponisza koncepcja budiwania baz danych do generatora obrazów powstała przed przyjęciem przez [ZłoWieka](https://www.instagram.com/zlowiek21/) propozycji zaprojektowania okładki "Biotektora" [Tomasza Bota](https://github.com/Tomasz-Bot/Biotektor). Praca autorska [ZłoWieka](https://www.instagram.com/zlowiek21/) będzie zrealizowana jako pierwsza. Następnie zbiór propozycji okładki "Biotektora" utworzy bazę danych )pierwsza kategoria #0) przydatną potem w Machine Learningu i szkoleniu sztucznej inteligencji, do czego wrócimy w kolejnych krokach realizujc poniżej opisany koncept rozszerzony o nowe kategorie.
 
 Tutaj wklejajmy linki do wzorców dla A.I. podzielonych na kategorie:
 
@@ -12,6 +12,7 @@ Tutaj wklejajmy linki do wzorców dla A.I. podzielonych na kategorie:
 7. [Wzorce palet koloru.](https://drive.google.com/drive/folders/1vd5nAjggoGrbWFtSuAnT7vS-xwD1rtRx?usp=sharing)
 8. [Macki ośmiornic.](https://drive.google.com/drive/folders/1QUJtL502DmhnC9u45Zi8WStIBIhxuOfW?usp=sharing)
 9. [Typografia.](https://drive.google.com/drive/folders/1LZrozRo6Mlkcm3BXloEWf01JwASG53_V?usp=sharing)
+10. [Cronenbergi](https://drive.google.com/drive/folders/1n2FDUdASGqRww9N5vkzOMW22qDXtla_K?usp=sharing)
 
 Następnie w generatorze każda z kolekcji mogłaby mieć odrębny suwak, który określałby procentowy wpływ danej kategorii bazy danych na ostateczne wygenerowany efekt. Pkt#9 Typografia powinien zawierać bazę przeróżnych fontów, które uznamy za bliskie temu co chcielibyśmy mieć na okładce. Program powinien dawać nam możliwość wprowadzenia własnego tekstu. 
 
