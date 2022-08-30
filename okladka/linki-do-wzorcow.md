@@ -14,8 +14,11 @@ Ponieważ okazuje się Instagram już nie pozwala niezalogowanym ogldać zdjęć
 
 1. Tomasz Bot - zdjęcia autorskie:
 https://www.instagram.com/p/CID-qaaHeR5/?igshid=YmMyMTA2M2Y%3D
+
 https://www.instagram.com/p/CXD22Uxo2kb/?igshid=YmMyMTA2M2Y%3D
+
 https://www.instagram.com/p/ChkwuC6uBrN/?igshid=YmMyMTA2M2Y%3D
+
 https://www.instagram.com/p/CdyC1I7oKxV/?igshid=YmMyMTA2M2Y=
 
 
