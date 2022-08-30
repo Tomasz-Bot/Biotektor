@@ -19,6 +19,6 @@ Następnie w generatorze każda z kolekcji mogłaby mieć odrębny suwak, który
 Moglibyśmy spróbować przygotwać generator tak, aby był w stanie tworzyć kolekcje (video) NFT zaopatrzone również we fragmenty opowiadania oraz oryginalną wersję zgrania muzyki plus przetworzenia i redyspozycję nagranego głosu autora "Biotektora" (co jest przedmiotem osobnej instalacji wielogłośnikowej, w której rozbitymi na fonemy cząstkami słów posługują się maszyny, co tworzy coś podobnego do mowy z brzmienia, ale jest wolne od jej znaczeń).
 
 
-Ponieważ okazuje się Instagram już nie pozwala niezalogowanym oglądać zdjęć z linków bazy będziemy budować ją w formie plików umieszczanych roboczo na Google Drive https://drive.google.com/drive/folders/13w9N2zOH_Slu-N012q1-OnwO1iM8p_ta?usp=sharing
+Ponieważ okazuje się, że Instagram już nie pozwala niezalogowanym oglądać zdjęć z linków bazy będziemy budować ją w formie plików umieszczanych roboczo na Google Drive https://drive.google.com/drive/folders/13w9N2zOH_Slu-N012q1-OnwO1iM8p_ta?usp=sharing
 
 Ponieważ do współpracy będziemy zapraszali osoby trzecie w nazewnictwie kategorii przechodzimy tam na język angielski.
