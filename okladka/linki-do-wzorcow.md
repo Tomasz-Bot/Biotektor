@@ -7,6 +7,7 @@ Tutaj wklejajmy linki do wzorców dla A.I. podzielonych na kategorie:
 6. [Grzyby.](https://drive.google.com/drive/folders/1GHpAUhozLdKPKF9s1kivog0x2ndcs9zw?usp=sharing)
 7. [Wzorce palet koloru.](https://drive.google.com/drive/folders/1vd5nAjggoGrbWFtSuAnT7vS-xwD1rtRx?usp=sharing)
 8. [Macki ośmiornic.](https://drive.google.com/drive/folders/1QUJtL502DmhnC9u45Zi8WStIBIhxuOfW?usp=sharing)
+9. [Typografia.](https://drive.google.com/drive/folders/1LZrozRo6Mlkcm3BXloEWf01JwASG53_V?usp=sharing)
 
 Następnie w generatorze każda z kolekcji mogłaby mieć odrębny suwak, który określałby procentowy wpływ danej kategorii bazy danych na ostateczne wygenerowany efekt.
 
