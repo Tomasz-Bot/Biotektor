@@ -18,10 +18,10 @@ Miejsca do weryfikacji - gwiazdki oznaczają likwidacje problemu:
 
 * 38:52 - repetycja "patrzyła", poprzednie bylo 38:48
 
-39:16 "teM szopkę"
+*  39:16 "teM szopkę"
 
-47:27 "odpycham go SWOJĄ dłonią" uciać "swoją"
+* 47:27 "odpycham go SWOJĄ dłonią" uciać "swoją"
 
 * 48:20 "unoszEM" sciac M (było OK)
 
-51:1, 51:12 i 51:18 dumchniecia w mikrofon do redukcji
+* 51:10, 51:12 i 51:18 dumchniecia w mikrofon do redukcji
