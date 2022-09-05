@@ -9,8 +9,9 @@
 
 @Bart-Kuzniak
 
-AUDIO:
-* = zrobione
+AUDIO:</br>
+"*" = zrobione</br>
+
 *1. Dogranie creditsów i licencji. </br>
 *2. Noise Reduction + odmlaszczenie ostatnich łatek dźwiękowych i creditsów.</br>
 *3. Montaż pre-mastera, ostateczna korekta barwy i dynamiki.</br>
