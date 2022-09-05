@@ -10,20 +10,19 @@
 @Bart-Kuzniak
 
 AUDIO:
-*** 
-*1. Dogranie creditsów i licencji. 
-*2. Noise Reduction + odmlaszczenie ostatnich łatek dźwiękowych i creditsów.
-*4. Montaż pre-mastera, ostateczna korekta barwy i dynamiki.
-5. Dokończenie produkcji utworu otwierającego, zgranie, mix i mastering. Nazwę go "Biotektor":)
-6. Zgranie "scratchingu" głosem z RX9 na zewnętrzny system (24bity, 192kHz), wybór najlepszych wersji, edycja i stworzenie bazy sampli z tego.
-7. Przygotowanie ponad tysiąca słów w formie sampli do umieszczenia ich w [Audio Stellar](https://audiostellar.xyz/) do grania custom'ową galaktyką sampli w Audio 
-8. Stellar oraz do projektowania struktury samokomponującej stamtąd.
-9. Zgranie wyników z Audio Stellar, wybór najciekawszych wersji, opracowanie ich brzmienia i dynamiki.
-10. W samplerze Bitwig Studio "scratching" głosu sterowany paskiem z QuNeo, automatyka do pozniejszej edycji, zgrania, wybory, obróbka i eksport odrębnej grupy sampli z tego działania.
-11. Zgranie zrobionej do tej pory instalacji z bełkotem pseudo-randomowym lub osadzenie jej w sesji dla lepszego dopasowania. 
-12. Ze wszystkich powyższych baz sampli i na bazie wersji utworu B333 "Biotektor" stworzenie utworu zamykającego audiobooka, jego miks i mastering.
-13. Przygotować serię krótkich teaserów audiowizualnych (10-15sek, może też krócej.
-14. Przygotwać utwór B333 "Biotektor" do clipu, dodatkowo udźwiękowić go zespajając z obrazem.
+* = zrobione
+*1. Dogranie creditsów i licencji. </br>
+*2. Noise Reduction + odmlaszczenie ostatnich łatek dźwiękowych i creditsów.</br>
+*3. Montaż pre-mastera, ostateczna korekta barwy i dynamiki.</br>
+4. Dokończenie produkcji utworu otwierającego, zgranie, mix i mastering. Nazwę go "Biotektor":)</br>
+5. Zgranie "scratchingu" głosem z RX9 na zewnętrzny system (24bity, 192kHz), wybór najlepszych wersji, edycja i stworzenie bazy sampli z tego.</br>
+6. Przygotowanie ponad tysiąca słów w formie sampli do umieszczenia ich w [Audio Stellar](https://audiostellar.xyz/) do grania custom'ową galaktyką sampli w Audio Stellar oraz do projektowania struktury samokomponującej stamtąd.</br>
+7. Zgranie wyników z Audio Stellar, wybór najciekawszych wersji, opracowanie ich brzmienia i dynamiki.</br>
+8. W samplerze Bitwig Studio "scratching" głosu sterowany paskiem z QuNeo, automatyka do pozniejszej edycji, zgrania, wybory, obróbka i eksport odrębnej grupy sampli z tego działania.</br>
+9. Zgranie zrobionej do tej pory instalacji z bełkotem pseudo-randomowym lub osadzenie jej w sesji dla lepszego dopasowania.</br>
+10. Ze wszystkich powyższych baz sampli i na bazie wersji utworu B333 "Biotektor" stworzenie utworu zamykającego audiobooka, jego miks i mastering.</br>
+11. Przygotować serię krótkich teaserów audiowizualnych (10-15sek, może też krócej.</br>
+12. Przygotwać utwór B333 "Biotektor" do clipu, dodatkowo udźwiękowić go zespajając z obrazem.</br>
 
 FOTO:
 1. Wyszukać i zebrać wybrane zdjęcie autora zrobione Fujifilm X-T3.
