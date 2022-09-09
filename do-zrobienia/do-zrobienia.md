@@ -15,7 +15,7 @@ AUDIO:</br>
 *1. Dogranie creditsów i licencji. </br>
 *2. Noise Reduction + odmlaszczenie ostatnich łatek dźwiękowych i creditsów.</br>
 *3. Montaż pre-mastera, ostateczna korekta barwy i dynamiki.</br>
-4. Dokończenie produkcji utworu otwierającego, zgranie, mix i mastering. Nazwę go "Biotektor":)</br>
+*4. Dokończenie produkcji utworu otwierającego, zgranie, mix i mastering. Nazwę go "Biotektor":)</br>
 5. Zgranie "scratchingu" głosem z RX9 na zewnętrzny system (24bity, 192kHz), wybór najlepszych wersji, edycja i stworzenie bazy sampli z tego.</br>
 6. Przygotowanie ponad tysiąca słów w formie sampli do umieszczenia ich w [Audio Stellar](https://audiostellar.xyz/) do grania custom'ową galaktyką sampli w Audio Stellar oraz do projektowania struktury samokomponującej stamtąd.</br>
 7. Zgranie wyników z Audio Stellar, wybór najciekawszych wersji, opracowanie ich brzmienia i dynamiki.</br>
