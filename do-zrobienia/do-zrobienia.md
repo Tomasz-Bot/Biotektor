@@ -4,6 +4,7 @@
 3. Wyłonić kolekcję zdjęć do migania w teaserach i do [bazy danych](https://github.com/Tomasz-Bot/Biotektor/blob/main/okladka/linki-do-wzorcow.md).
 4. Zorganizować patronaty medialne.
 5. Uzupeniać [bazy danych](https://github.com/Tomasz-Bot/Biotektor/blob/main/okladka/linki-do-wzorcow.md) potrzebne do uruchomienia własnego generatora.
+6. Stworzyć bazę miejsc (galerii, klubów) gdzie moglibyśmy pojechać z "Biotektorem", aby połączyć czytanie z instalacją dzwiękową, ewentualnie z mini-koncertem lub / i imprezą.
 
 >>><<<
 
