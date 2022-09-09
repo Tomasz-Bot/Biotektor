@@ -4,9 +4,11 @@ https://studio333.net/biotektor/
 
 Tomasz Bot – pisarz, dziennikarz zajmujący się wcześniej kinem niszowym i groszowym, a niekiedy popularnym; grafik, fotograf-amator, kaskader codzienności i prawdziwy Bot. Zamienia słowa w obrazy i obrazy w słowa. Rejstruje i przetwarza. Podsłuchuje i podgląda. Fan kina SF, VHS-owej klasy B, ale też twórczości Davida Cronenberga, kina Noir, Acid i Spaghetti-Westernów, niszowej muzyki elektronicznej, glitchu i innych zjawisk wyrazistych. Popkulturowy komandos potrafiący przetrwać w dżungli nadmiaru. Nie dzieli na Niskie i Wysokie. Wierzy w moc szczerych aktów twórczych, D.I.Y. i że warto popełniać błędy.
 
->>> Wkrótce “Biotektor” będzie dostępny w formie tekstowej i dźwiękowej wśród Archiwów Studio333 https://studio333.net/archives/ a także na Archive.org i Studio333.bandcamp.com <<<
+>>> Wkrótce “Biotektor” będzie dostępny w formie tekstowej i dźwiękowej wśród Archiwów Studio333, a także na Archive.org i Studio333.bandcamp.com
+Premierę planujemy na listopad 2022. Do playlisty dojdzie jeszcze utwór zamykający (inna wersja otwierającego) oraz fragmenty z instalacji wielogłośnikowej opartej na “Biotektorze”, czego zapowiedzią jest Proto-Trailer wykorzystujący głos autora w sposób wolny od treści.<<<
 
 Tekst i głos: Tomasz Bot
+Muzyka: B333
 Produkcja, nagranie, edycja i mastering High Definition: Bartłomiej Kuźniak, Studio333.net
 
 Creative Commons License
