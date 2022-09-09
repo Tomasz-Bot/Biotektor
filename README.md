@@ -8,8 +8,11 @@ Tomasz Bot – pisarz, dziennikarz zajmujący się wcześniej kinem niszowym i g
 Premierę planujemy na listopad 2022. Do playlisty dojdzie jeszcze utwór zamykający (inna wersja otwierającego) oraz fragmenty z instalacji wielogłośnikowej opartej na “Biotektorze”, czego zapowiedzią jest Proto-Trailer wykorzystujący głos autora w sposób wolny od treści.<<<
 
 Tekst i głos: Tomasz Bot
+
 Muzyka: B333
+
 Produkcja, nagranie, edycja i mastering High Definition: Bartłomiej Kuźniak, Studio333.net
+
 
 Creative Commons License
 Zawarte na tej stronie prace tekstowe, zdjęciowe i dźwiękowe są chronione licencją Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License.
